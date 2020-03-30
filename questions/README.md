@@ -1,5 +1,4 @@
 
-
 #### Prescreen
 1. What is the difference between const, let, and var?
 2. Explain prototypical inheritance
