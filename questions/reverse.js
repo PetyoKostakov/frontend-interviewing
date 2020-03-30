@@ -30,7 +30,6 @@ should(
 );
 
 function should(testTitle, functionToTest, arguments, expectedResult) {
-    console.log(testTitle);
     const result = functionToTest(arguments);
 
     if (result === expectedResult) {
